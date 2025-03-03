@@ -9,7 +9,7 @@ html {
 	font-family: 'Montserrat', sans-serif;
 	scroll-behavior: smooth;
 }
-a {
+a {color:#fff;
 	text-decoration: none;
 }
 .container {
